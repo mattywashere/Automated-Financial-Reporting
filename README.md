@@ -78,4 +78,6 @@ The Python script (`generate_report.py`) utilizes the `pandas` library to perfor
 This project is open-source and available under the [MIT License](LICENSE) (just add a license file later)
 
 ---
-**Author:** Matthew Lubin"# Automated-Financial-Reporting" 
+**Author:** Matthew Lubin
+
+Automated Financial Reporting
