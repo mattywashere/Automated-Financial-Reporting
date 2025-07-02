@@ -64,7 +64,7 @@ The Python script (`generate_report.py`) utilizes the `pandas` library to perfor
 3.  **View the output:**
     A new Excel file named `income_statement_report.xlsx` will be created in the same directory, containing your generated Income Statement.
 
-## Future Enhancements (Ideas for your own development)
+## Future Enhancements
 
 * **Balance Sheet & Cash Flow Statement:** Extend the script to generate other primary financial statements.
 * **User Interface (GUI/CLI):** Develop a simple command-line interface (using `argparse`) or a graphical user interface (using `Tkinter` or `Streamlit`) for easier interaction.
