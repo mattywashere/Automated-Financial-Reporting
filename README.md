@@ -72,7 +72,3 @@ The Python script (`generate_report.py`) utilizes the `pandas` library to perfor
 * **Database Integration:** Store transaction data in a simple SQLite database instead of Excel.
 * **More Robust Error Handling:** Implement more specific checks for data integrity and file issues.
 * **Dynamic Category Mapping:** Allow users to define how their transaction categories map to Income Statement line items.
----
-**Author:** Matthew Lubin
-
-Automated Financial Reporting
